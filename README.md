@@ -10,7 +10,5 @@ Mi Reporsitorio
 - Opción 3
 ### Este es el subtitulo final
 Haga clic [aquí](www.google.com) para ir a google
-
+# Atom 4
 bla bla bla---
-
-# desde Atom
